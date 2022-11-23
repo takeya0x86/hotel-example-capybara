@@ -1,3 +1,5 @@
+**This project is archived and read-only.**
+
 # hotel-example-capybara-ja
 
 [![capybara-ja](https://github.com/testplanisphere/hotel-example-capybara-ja/actions/workflows/test.yml/badge.svg)](https://github.com/testplanisphere/hotel-example-capybara-ja/actions/workflows/test.yml)
